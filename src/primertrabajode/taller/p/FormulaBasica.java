@@ -13,7 +13,7 @@ public class FormulaBasica {
 
         int z = (a + b) * c;
 
-        System.out.println("El resultado es: " + z);
+        System.out.println("El resultado final es: " + z);
     }
 }
 
